@@ -1,0 +1,2 @@
+class ImageLinksController < ApplicationController
+end

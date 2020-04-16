@@ -1,0 +1,2 @@
+class IdTagsController < ApplicationController
+end
